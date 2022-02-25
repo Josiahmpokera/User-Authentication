@@ -4,10 +4,10 @@ import 'package:firebase_auth/firebase_auth.dart';
 
 //Them MAin FUnction in FLutter
 
-void main() async {
+void main()  {
   //Initialize Flutter Binding
-  WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+ // WidgetsFlutterBinding.ensureInitialized();
+  // Firebase.initializeApp();
   runApp(const MyApp());
 }
 
@@ -128,8 +128,8 @@ class _MainConseptState extends State<MainConsept> {
             const SizedBox(
               height: 23,
             ),
-            TextButton(onPressed: (){},
-                child: const Text("Sign out", style: TextStyle(color: Colors.orange),))
+          /*  TextButton(onPressed: (){},
+                child: const Text("Sign out", style: TextStyle(color: Colors.orange),)) */
 
           ],
         ),
