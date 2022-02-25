@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "480146593387",
+    "project_id": "tutorial-authentication-f3f2f",
+    "storage_bucket": "tutorial-authentication-f3f2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480146593387:android:3fdddaf60253aa13d4032e",
+        "android_client_info": {
+          "package_name": "com.example.tutorial_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480146593387-096bdfjtsoaqks12jlnv9k0gvacc4pem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tutorial_authentication",
+            "certificate_hash": "7a082d4723705ee7210732da276a70dc7a008659"
+          }
+        },
+        {
+          "client_id": "480146593387-ns7lojvs4h8ditnm40th95cnj5rbpbf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGVTqk6w6R-x3CLbiJsYxrHJYTKyEyFKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480146593387-ns7lojvs4h8ditnm40th95cnj5rbpbf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
